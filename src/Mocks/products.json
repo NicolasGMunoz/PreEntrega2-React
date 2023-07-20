@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "Remera Kakashi",
+        "price": 3500,
+        "descripcion": "Remera negra de algodon premium Talle XL",
+        "categories": ["Remeras", "Anime"],
+        "stock": 5,
+        "image": "https://imageup.me/images/31d5c02e-31c1-4cdf-ba24-4271913e2e4d.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Remera One Piece",
+        "price": 3000,
+        "descripcion": "Remera negra de algodon premium Talle XL",
+        "categories": ["Remeras", "Anime"],
+        "stock": 4,
+        "image": "https://imageup.me/images/189e76d6-ac27-4469-afab-b8fa4d578ab6.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Mate Snorlax",
+        "price": 3000,
+        "descripcion": "Mate impreson en 3D pintado y laqueado a mano",
+        "categories": ["IMP3D", "Anime"],
+        "stock": 5,
+        "image": "https://imageup.me/images/b837c826-c34a-464f-aa96-257bbef6cb07.png"
+    },
+
+    {
+        "id": 4,
+        "name": "Mate Groot",
+        "price": 3200,
+        "descripcion": "Mate impreson en 3D pintado y laqueado a mano",
+        "categories": ["IMP3D", "Peliculas"],
+        "stock": 6,
+        "image": "https://imageup.me/images/196903c9-f4ae-4c24-94ef-a233850b6253.jpeg"
+    }
+]
